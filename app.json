@@ -23,7 +23,7 @@
     "android": {
       "package": "com.ICDF.BelizeCityTourGuide.Pad",
       "permissions": [],
-      "versionCode": 2
+      "versionCode": 3
     }
   }
 }
