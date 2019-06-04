@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "BelizeCityTour",
+    "slug": "Belize-City-Tour-Guide",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#404065"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ICDF.BelizeCityTourGuide.Pad",
+      "permissions": [],
+      "versionCode": 2
+    }
+  }
+}
