@@ -216,12 +216,13 @@ export default (item = [
     phone: 'to be updated',
     openingTime: 'to be updated',
     imgFolder: 'Paslow',
-    imgs: ['Paslow1', 'Paslow2', 'Paslow3', 'Paslow4'],
+    imgs: ['Paslow1', 'Paslow2', 'Paslow3', 'Paslow4', 'Paslow5'],
     imgsPath: [
       require('../../../assets/MainPage/photo/Paslow/Paslow1.jpg'),
       require('../../../assets/MainPage/photo/Paslow/Paslow2.jpg'),
       require('../../../assets/MainPage/photo/Paslow/Paslow3.jpg'),
-      require('../../../assets/MainPage/photo/Paslow/Paslow4.jpg')
+      require('../../../assets/MainPage/photo/Paslow/Paslow4.jpg'),
+      require('../../../assets/MainPage/photo/Paslow/Paslow5.jpg')
     ],
     englishStorys: [
       '(to be constructed and opened by 2020)：There was a three-story building known as the Paslow Stores standing here, built in 1920. Paslow is the name of a 19th century Bayman who featured prominently in the Battle of St. Georges Caye. Baymen refers to the European settlers who established the system of slavery in Belize. ',
