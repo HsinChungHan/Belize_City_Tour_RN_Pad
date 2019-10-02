@@ -1,4 +1,4 @@
-export default (item = [
+export default item = [
   {
     tag: 0,
     englishName: 'House of Culture',
@@ -205,8 +205,8 @@ export default (item = [
   },
   {
     tag: 4,
-    englishName: 'Paslow Plaza',
-    mandarinName: 'Paslow Plaza',
+    englishName: 'Construction of Plaza and Visitor Center',
+    mandarinName: 'Construction of Plaza and Visitor Center',
     address: '10 N Front St, Belize City, belize (near by)',
     latitude: 17.495429,
     longitude: -88.186742,
@@ -226,23 +226,23 @@ export default (item = [
     ],
     englishStorys: [
       '(to be constructed and opened by 2020)：There was a three-story building known as the Paslow Stores standing here, built in 1920. Paslow is the name of a 19th century Bayman who featured prominently in the Battle of St. Georges Caye. Baymen refers to the European settlers who established the system of slavery in Belize. ',
-      'The Paslow Stores was destroyed by fire in 2002 and a brand new Paslow Plaza is now under construction through a Project implemented in collaboration between the TaiwanICDF and the Ministry of Tourism in Belize, which aims to create an eco-musem within Downtown Belize City. ',
-      'Paslow Plaza will accommodate local artists, musicians and craftsmen to do performances and sell handicrafts. Serving as the entrance to the downtown area of Belize City, Paslow Plaza is a must-visit place for any tourist who wants to get a snapshot of the culture and history of Belize City as well as the content of the whole eco-museum.'
+      'The Paslow Stores was destroyed by fire in 2002 and a brand new Plaza is now under construction through a Project implemented in collaboration between the TaiwanICDF and the Ministry of Tourism in Belize, which aims to create an eco-musem within Downtown Belize City.',
+      'New Plaza will accommodate local artists, musicians and craftsmen to do performances and sell handicrafts. Serving as the entrance to the downtown area of Belize City, Paslow Plaza is a must-visit place for any tourist who wants to get a snapshot of the culture and history of Belize City as well as the content of the whole eco-museum.'
     ],
     englishStory:
-      '(to be constructed and opened by 2020)：There was a three-story building known as the Paslow Stores standing here, built in 1920. Paslow is the name of a 19th century Bayman who featured prominently in the Battle of St. Georges Caye. Baymen refers to the European settlers who established the system of slavery in Belize. The Paslow Stores was destroyed by fire in 2002 and a brand new Paslow Plaza is now under construction through a Project implemented in collaboration between the TaiwanICDF and the Ministry of Tourism in Belize. Paslow Plaza will accommodate local artists, musicians and craftsmen to do performances and sell handicrafts. Serving as the entrance to the downtown area of Belize City, This a is a must-visit place for any tourist who wants to get a snapshot of the culture and history of Belize City as well as the content of the whole eco-museum.',
+      '(to be constructed and opened by 2020)：There was a three-story building known as the Paslow Stores standing here, built in 1920. Paslow is the name of a 19th century Bayman who featured prominently in the Battle of St. Georges Caye. Baymen refers to the European settlers who established the system of slavery in Belize. The Paslow Stores was destroyed by fire in 2002 and a brand new Plaza is now under construction through a Project implemented in collaboration between the TaiwanICDF and the Ministry of Tourism in Belize. New Plaza will accommodate local artists, musicians and craftsmen to do performances and sell handicrafts. Serving as the entrance to the downtown area of Belize City, This a is a must-visit place for any tourist who wants to get a snapshot of the culture and history of Belize City as well as the content of the whole eco-museum.',
     englishStoryFirst:
-      '(to be constructed and opened by 2020)：There was a three-story building known as the Paslow Stores standing here, built in 1920. Paslow is the name of a 19th century Bayman who featured prominently in the Battle of St. Georges Caye. Baymen refers to the European settlers who established the system of slavery in Belize. ',
+      '(to be constructed and opened by 2020)：There was a three-story building known as the Paslow Stores standing here, built in 1920. Paslow is the name of a 19th century Bayman who featured prominently in the Battle of St. Georges Caye. Baymen refers to the European settlers who established the system of slavery in Belize.',
     englishStorySecond:
-      'The Paslow Stores was destroyed by fire in 2002 and a brand new Paslow Plaza is now under construction through a Project implemented in collaboration between the TaiwanICDF and the Ministry of Tourism in Belize, which aims to create an eco-musem within Downtown Belize City. ',
+      'The Paslow Stores was destroyed by fire in 2002 and a brand new Plaza is now under construction through a Project implemented in collaboration between the TaiwanICDF and the Ministry of Tourism in Belize, which aims to create an eco-musem within Downtown Belize City.',
     englishStoryThird:
-      'Paslow Plaza will accommodate local artists, musicians and craftsmen to do performances and sell handicrafts. Serving as the entrance to the downtown area of Belize City, Paslow Plaza is a must-visit place for any tourist who wants to get a snapshot of the culture and history of Belize City as well as the content of the whole eco-museum.',
+      'New Plaza will accommodate local artists, musicians and craftsmen to do performances and sell handicrafts. Serving as the entrance to the downtown area of Belize City, Paslow Plaza is a must-visit place for any tourist who wants to get a snapshot of the culture and history of Belize City as well as the content of the whole eco-museum.',
     mandarinStory:
       '此地原本有一棟名為Belize Stores的三層樓房，建於1920年，其名Paslow為紀念19世紀一位曾參與St. George Caye戰爭的西方殖民者。貝里斯的奴隸制度就是由這些殖民者所引進。Paslow Stores於2002年被一場大火燒燬，如今在臺貝合作打造之生態博物館計畫下，將原地重建一座Paslow Plaza。作為觀光客進入舊城區的入口，在此將提供藝術表演與手工藝品販售。想要快速了解貝里斯市文史背景及整個生態博物館內容的您，絕對不可錯過! ',
     mandarinStoryFirst:
       '此地原本有一棟名為Belize Stores的三層樓房，建於1920年，其名Paslow為紀念19世紀一位曾參與St. George Caye戰爭的西方殖民者。貝里斯的奴隸制度就是由這些殖民者所引進。',
     mandarinStorySecond:
-      'Paslow Stores於2002年被一場大火燒燬，如今在臺貝合作打造之生態博物館計畫下，將原地重建一座Paslow Plaza。',
+      'Paslow Stores於2002年被一場大火燒燬，如今在臺貝合作打造之生態博物館計畫下，將原地重建一座Plaza。',
     mandarinStoryThird:
       '作為觀光客進入舊城區的入口，在此將提供藝術表演與手工藝品販售。想要快速了解貝里斯市文史背景及整個生態博物館內容的您，絕對不可錯過! ',
     isLiked: 'FALSE',
@@ -548,7 +548,7 @@ export default (item = [
     iconLocationY: 323,
     type: 'monument',
     phone: 'N.A.',
-    openingTime: 'not opened to the general public',
+    openingTime: 'private residence not open to the general public',
     imgFolder: 'Eusey',
     imgs: ['Eusey1', 'Eusey2', 'Eusey3', 'Eusey4', 'Eusey5'],
     imgsPath: [
@@ -697,4 +697,4 @@ export default (item = [
 
     website: 'http://www.belizeit.com/st-johns-cathedral.html'
   }
-]);
+];
